@@ -1,8 +1,7 @@
-# Webpack Frontend Starterkit
+# How to get async/await to work in webpack
 
-[![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
-A lightweight foundation for your next webpack based frontend project.
+Look at the last commit to see what needs to be done to get async/await working with webpack in the browser
 
 
 ### Installation
